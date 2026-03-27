@@ -1,4 +1,5 @@
 # Hii I' m Gaurav Joshi
+
 # 💫 About Me:
 
 I am Gaurav Joshi, a curious and driven individual currently pursuing a course in data analysis. I enjoy working with data, uncovering patterns, and turning numbers into meaningful insights. I believe in continuous learning and constantly strive to improve my skills in analytics and problem-solving. I am passionate about using data to make informed decisions and create impactful solutions. With a focused mindset and a willingness to grow, I am shaping myself into a confident and capable data professional.
@@ -14,4 +15,11 @@ I am Gaurav Joshi, a curious and driven individual currently pursuing a course i
 
 # 📊 GitHub Stats:
 
-[![Gaurav200-3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav200-3)](https://github.com/Gaurav200-3/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Gaurav200-3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gaurav200-3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav200-3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gaurav200-3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
