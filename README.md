@@ -14,4 +14,4 @@ I am Gaurav Joshi, a curious and driven individual currently pursuing a course i
 
 # 📊 GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav200-3)](https://github.com/Gaurav200-3/github-readme-stats)
+[![Gaurav200-3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav200-3)](https://github.com/Gaurav200-3/github-readme-stats)
