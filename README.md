@@ -27,7 +27,7 @@ I am Gaurav Joshi, a curious and driven individual currently pursuing a course i
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200-3&theme=tokyo-night"/>
 </p>
 
 ---
