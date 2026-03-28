@@ -31,47 +31,6 @@ I am Gaurav Joshi, a curious and driven individual currently pursuing a course i
 
 ## 📊 Skills Progress (Bar Chart Style)
 
-![Bar Chart](https://quickchart.io/chart?c={
-type:'bar',
-data:{
-labels:['Excel','Power BI','SQL','Python'],
-datasets:[{
-label:'Skill Level',
-data:[85,80,60,55]
-}]
-}
-})
-
----
-
-## 🥧 Language Distribution (Pie Chart)
-
-![Pie Chart](https://quickchart.io/chart?c={
-type:'pie',
-data:{
-labels:['English','Hindi','Other'],
-datasets:[{
-data:[60,35,5]
-}]
-}
-})
-
----
-
-## 📊 Course Progress (Column Chart)
-
-![Column Chart](https://quickchart.io/chart?c={
-type:'bar',
-data:{
-labels:['Data Analytics','Power BI','Excel'],
-datasets:[{
-label:'Completion %',
-data:[75,80,90]
-}]
-}
-})
-
----
 
 ## 🚀 Connect with Me
 
