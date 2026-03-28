@@ -16,21 +16,74 @@ I am Gaurav Joshi, a curious and driven individual currently pursuing a course i
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav200-3&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav200-3&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav200-3&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Gaurav200-3&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200-3&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200-3&theme=tokyo-night" />
 </p>
 
 ---
+
+## 📊 Skills Progress (Bar Chart Style)
+
+![Bar Chart](https://quickchart.io/chart?c={
+type:'bar',
+data:{
+labels:['Excel','Power BI','SQL','Python'],
+datasets:[{
+label:'Skill Level',
+data:[85,80,60,55]
+}]
+}
+})
+
+---
+
+## 🥧 Language Distribution (Pie Chart)
+
+![Pie Chart](https://quickchart.io/chart?c={
+type:'pie',
+data:{
+labels:['English','Hindi','Other'],
+datasets:[{
+data:[60,35,5]
+}]
+}
+})
+
+---
+
+## 📊 Course Progress (Column Chart)
+
+![Column Chart](https://quickchart.io/chart?c={
+type:'bar',
+data:{
+labels:['Data Analytics','Power BI','Excel'],
+datasets:[{
+label:'Completion %',
+data:[75,80,90]
+}]
+}
+})
+
+---
+
+## 🚀 Connect with Me
+
+<p align="center">
+<a href="https://github.com/Gaurav200-3">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+⭐ From [Gaurav200-3](https://github.com/Gaurav200-3)
 
 ## 📌 Current Focus
 ✔ Building Data Projects  
